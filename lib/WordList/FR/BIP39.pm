@@ -13,7 +13,7 @@ our @ISA = qw(WordList);
 
 =head1 SEE ALSO
 
-Source: L<https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt>
+Source: L<https://github.com/bitcoin/bips/blob/master/bip-0039/french.txt>
 
 About BIP 39: L<https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki>
 
